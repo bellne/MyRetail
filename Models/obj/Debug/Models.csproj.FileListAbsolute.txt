@@ -1,0 +1,10 @@
+C:\Users\nbell\PersonalProjects\myRetail\Models\bin\Debug\Models.dll
+C:\Users\nbell\PersonalProjects\myRetail\Models\bin\Debug\Models.pdb
+C:\Users\nbell\PersonalProjects\myRetail\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\nbell\PersonalProjects\myRetail\Models\obj\Debug\Models.dll
+C:\Users\nbell\PersonalProjects\myRetail\Models\obj\Debug\Models.pdb
+C:\_PersonalApps\myRetail\Models\bin\Debug\Models.dll
+C:\_PersonalApps\myRetail\Models\bin\Debug\Models.pdb
+C:\_PersonalApps\myRetail\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\_PersonalApps\myRetail\Models\obj\Debug\Models.dll
+C:\_PersonalApps\myRetail\Models\obj\Debug\Models.pdb
